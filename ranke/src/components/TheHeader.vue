@@ -5,7 +5,7 @@
     <img  src="@/assets/ranek.svg" alt="Ranek">
     </router-link>
     
-    <router-link class="btn" to="/login">Vender / Login</router-link>
+    <router-link class="btn" to="/login">Vender/Login</router-link>
   </nav>
 </header>
 
