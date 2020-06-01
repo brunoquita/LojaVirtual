@@ -10,7 +10,9 @@ name: "TheFooter"
 }
 </script>
 
-<style>
+
+
+<style >
 footer{
   background:#87f ;
   padding: 25px 0;
